@@ -1,0 +1,1 @@
+[{"keywords": "python", "count": 80, "down": 158541.34, "up": 215958.32, "requirements": [{"name": "python", "count": 60, "percent": 75.0}, {"name": "git", "count": 35, "percent": 43.75}, {"name": "postgresql", "count": 35, "percent": 43.75}, {"name": "sql", "count": 26, "percent": 32.5}, {"name": "linux", "count": 21, "percent": 26.25}]}]
